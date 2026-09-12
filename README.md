@@ -29,7 +29,6 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
-# taruh dataset di data/fraud_train.txt, lalu:
 jupyter notebook notebooks/01-eda-model-klasifikasi-fraud-kartu-kredit.ipynb
 ```
 
